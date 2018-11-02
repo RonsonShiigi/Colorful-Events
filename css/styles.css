@@ -1,8 +1,14 @@
-h1{
+#top{
     text-align: center;
-    font-size: 50px;
+    font-size: 100px;
+    font-family: 'Spicy Rice', cursive;
+    
 }
 
-button{
-    font-size:45;
+#yo{
+    position: relative;
+    font-size:45px;
+    margin-left:35%;
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
 }

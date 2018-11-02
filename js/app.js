@@ -1,3 +1,4 @@
 function booya(){
-    console.log('booya')
+    document.body.style.backgroundColor="red";
 }
+

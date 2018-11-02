@@ -8,7 +8,37 @@
 #yo{
     position: relative;
     font-size:45px;
-    margin-left:35%;
+    margin-left:40%;
     font-family: 'Rubik', sans-serif;
     text-align: center;
+}
+
+#groovy{
+    font-size:85px;
+    font-family: 'Spicy Rice', cursive;
+    margin-left: 65%;
+    margin-top: 15%;
+    transform: rotate(29deg);
+    
+    
+
+}
+
+#wicked{
+    font-size:85px;
+    font-family: 'Spicy Rice', cursive;
+    transform: rotate(-29deg);
+    margin-top:-14%;
+    margin-left:8%;
+    width: 100px;   
+    
+}
+
+#peace{
+    height:300px;
+    width:auto;
+    margin-left:40%;
+    margin-top:-14%;
+    
+    
 }

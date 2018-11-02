@@ -10,7 +10,7 @@ var hue = 'rgb(' + (Math.floor(Math.random() * 256)) + ',' + (Math.floor(Math.ra
   document.getElementById('groovy').style.color = tree; 
 
   var four = 'rgb(' + (Math.floor(Math.random() * 256)) + ',' + (Math.floor(Math.random() * 256)) + ',' + (Math.floor(Math.random() * 256)) + ')';
-  document.getElementById('wicked').style.color = four; 
+  document.getElementById('wicked').style.color = tree; 
 
   var pic = document.getElementById('peace');
   if(pic.style.display === 'block'){
